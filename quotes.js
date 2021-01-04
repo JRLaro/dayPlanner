@@ -23,23 +23,23 @@ const quotes = [
 
     `“Our goals can only be reached through a vehicle of a plan, in which we must fervently believe, and upon which we must vigorously act. There is no other route to success.” ― Pablo Picasso`,
 
-`“Setting a goal is not the main thing. It is deciding how you will go about achieving it and staying with that plan.” ― Tom Landry`,
+    `“Setting a goal is not the main thing. It is deciding how you will go about achieving it and staying with that plan.” ― Tom Landry`,
 
-`“Good fortune is what happens when opportunity meets with planning.” ― Thomas Edison`,
+    `“Good fortune is what happens when opportunity meets with planning.” ― Thomas Edison`,
 
-`“You can always amend a big plan, but you can never expand a little one. I don’t believe in little plans. I believe in plans big enough to meet a situation which we can’t possibly foresee now.” ― Harry S. Truman`,
+    `“You can always amend a big plan, but you can never expand a little one. I don’t believe in little plans. I believe in plans big enough to meet a situation which we can’t possibly foresee now.” ― Harry S. Truman`,
 
-`“Just because you make a good plan, doesn’t mean that’s what’s gonna happen.” ― Taylor Swift`,
+    `“Just because you make a good plan, doesn’t mean that’s what’s gonna happen.” ― Taylor Swift`,
 
-`“A good plan violently executed now is better than a perfect plan executed next week.” ― George S. Patton`,
+    `“A good plan violently executed now is better than a perfect plan executed next week.” ― George S. Patton`,
 
-`“Unless you have a definite, precise, clearly set goals, you are not going to realize the maximum potential that lies within you.” ― Zig Ziglar`,
+    `“Unless you have a definite, precise, clearly set goals, you are not going to realize the maximum potential that lies within you.” ― Zig Ziglar`,
 
-`“Before anything else, preparation is the key to success.” ― Alexander Graham Bell`,
+    `“Before anything else, preparation is the key to success.” ― Alexander Graham Bell`,
 
-`“To achieve great things, two things are needed; a plan, and not quite enough time.” ― Leonard Bernstein`,
+    `“To achieve great things, two things are needed; a plan, and not quite enough time.” ― Leonard Bernstein`,
 
-`“Give me six hours to chop down a tree and I will spend the first four sharpening the axe.” ― Abraham Lincoln`,
+    `“Give me six hours to chop down a tree and I will spend the first four sharpening the axe.” ― Abraham Lincoln`,
 
 ]
 
@@ -50,4 +50,4 @@ function newQuote() {
     // $(`#quoteDisplay`).html = quotes[rando];
 }
     
-console.log(quotes.length);
+console.log(quotes);
