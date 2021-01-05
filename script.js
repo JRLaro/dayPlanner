@@ -27,7 +27,7 @@ var storageSchedule = localStorage.getItem('schedule');
 if (storageSchedule) {
     schedule = JSON.parse(storageSchedule);
 } else {
-    for (let i = 9; i <= 17; i++) {
+    for (let i = 0; i <= 17; i++) {
         schedule[i] = ''
         console.log("It appears that nothing has been saved to the local storage.")
     }
