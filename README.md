@@ -17,7 +17,11 @@ which will re-direct you. *Make sure that you are connected to the internet.
  
 ## Usage 
 
-> Currently Empty
+> ![Screen Shot 2021-01-05 at 5 24 13 PM](https://user-images.githubusercontent.com/74631465/103707550-caaff400-4f7c-11eb-9871-aa5e8caa7234.png)
+
+![Screen Shot 2021-01-05 at 5 39 28 PM](https://user-images.githubusercontent.com/74631465/103707623-fa5efc00-4f7c-11eb-84cc-e902a3a8a600.png)
+
+![Screen Shot 2021-01-05 at 5 42 53 PM](https://user-images.githubusercontent.com/74631465/103707873-75281700-4f7d-11eb-9322-306947e09c7d.png)
 
 
 ## Credits
